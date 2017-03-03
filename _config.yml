@@ -2,9 +2,9 @@
 title: Hanson
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "Hanson|Think Different"  
+description: "yzWang|Think Different"  
 baseurl: ""
-url: "http://zyphs21.github.io"  
+url: "http://yz-wang.github.io"  
 
 # About/contact
 owner: 
@@ -44,7 +44,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "hanson"
+      author: "yz-wang"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
