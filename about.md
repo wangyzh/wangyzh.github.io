@@ -17,7 +17,6 @@ header-img: "img/green.jpg"
 * * *
 * *Email*：wangyingzhen91@163.com
 * *QQ*：  296085360
-* *Github*: <https://github.com/yz-wang>
+* *Github*: [https://github.com/yz-wang](https://github.com/yz-wang)
 * * *
-个人技能：  
-生物信息学，转录组，微生物，R语言，perl
+* 个人技能: 生物信息学，转录组，微生物，R语言，perl
