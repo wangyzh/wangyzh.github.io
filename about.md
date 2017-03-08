@@ -1,23 +1,23 @@
 ---
 layout: page
-title: "About"
-description: "my name is yingzhen Wang"
+title: "About me"
+description: "王英珍"
 header-img: "img/green.jpg"
 ---
 
 
 
+![照片](https://avatars0.githubusercontent.com/u/26157842?v=3&s=460)
 
-# 联系方式
 
-*   Email：wangyingzhen91@163.com
-*   QQ/微信号：296085360/王英臻
-* * *
+*   王英臻
+*   硕士在读/南京农业大学
 
-# 个人信息
-
-*   王英臻/男/1991
-*   硕士/南京农业大学 
-*   Github: <https://github.com/yz-wang>
 
 * * *
+* *Email*：wangyingzhen91@163.com
+* *QQ*：  296085360
+* *Github*: <https://github.com/yz-wang>
+* * *
+个人技能：  
+生物信息学，转录组，微生物，R语言，perl
